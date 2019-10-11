@@ -5,9 +5,11 @@ Test di androiod 5
      ^ di butuhkan no hp
      ^ test postif dan negatif
   * Test Login
-     ^ test postif dan negatif
-     ^ run test1
+- Test API-1
+  * buat automation api test
+  * buat automation api test-2
 - Test Automation
+  * Run test automation
 - Test Api
 - Test di device farm
      ^ buat protofolio mobile
