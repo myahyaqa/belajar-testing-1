@@ -1,0 +1,6 @@
+Test di androiod 5
+
+-Test Manual
+-Test Automation
+-Test Api
+-Test di device farm
