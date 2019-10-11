@@ -4,6 +4,9 @@ Test di androiod 5
   * test Register
   * Test Login
 - Test API-1
+  * buat automation api test
+  * buat automation api test-2
 - Test Automation
+  * Run test automation
 - Test Api
 - Test di device farm
